@@ -1,12 +1,12 @@
 body{
   font-size: 20px;
-  background-color: #d8f3ea;
+  background-color: #ebf9f5;
   color: #fff;
 }
 
 /** HEADER **/
 #header-nav {
-  background-color:  #2f9d7e;
+  background-color: #29896e;
   border-radius: 0;
   border: 0;
   height: 80px;
@@ -19,7 +19,7 @@ body{
   font-size: 2.4em;
   margin-top: 0;
   margin-bottom: 0;
-  line-height: .90;
+  line-height: .75;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -27,13 +27,20 @@ body{
 }
 
 #dropDownList {
-  margin-top: 10px;
+  background-color:    #afe9d8;
+ 
 }
 
 #dropDownList a {
-
   text-align: center;
+  color:   #24755d;
+ }
+
+#dropDownList a:hover {
+  background-color:  #88ddc5;
+  color:   #fff;
 }
+
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #fff;
@@ -45,7 +52,7 @@ body{
 }
 
 
-ul, li{
-  padding:10px;
+#collapsable-nav {
+  margin-top: 16px;
+  
 }
-
