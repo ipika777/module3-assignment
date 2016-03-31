@@ -1,0 +1,21 @@
+body{
+  font-size: 12px;
+  background-color: #d8f3ea;
+  color:#000;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color:  #2f9d7e;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand h1 { /* Restaurant name */
+  color: #fff;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: left;
+}
