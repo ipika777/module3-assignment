@@ -1,7 +1,7 @@
 body{
-  font-size: 20px;
+  font-size: 16px;
   background-color: #ebf9f5;
-  color: #fff;
+  color: #24755d;
 }
 
 /** HEADER **/
@@ -33,8 +33,8 @@ body{
 
 #dropDownList a {
   text-align: center;
-  color:   #24755d;
   border-bottom: 1px solid  #29896e;
+  font-weight: bold;
  }
 
 
@@ -59,3 +59,15 @@ body{
   
 }
 
+#ourMenu{
+  color: #29896e;
+  font-weigh: bold;
+}
+
+section{
+  margin: 16px;
+  padding:10px;
+  color: black;
+  background-color:  #88ddc5;
+  text-align: justify;
+}
