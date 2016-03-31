@@ -65,14 +65,17 @@ body{
 }
 
 section{
-  margin: 16px;
-  padding:10px;
+  margin: 40px;
+  padding: 10px;
   color: black;
   background-color:  #88ddc5;
   text-align: justify;
+  border-radius: 20px;
+  border: solid 4px #29896e;
 }
 
 #chicken {
   padding:2px;  
   font-weight: bold;
+
 }
