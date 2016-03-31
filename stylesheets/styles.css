@@ -27,14 +27,16 @@ body{
 }
 
 #dropDownList {
-  background-color:    #afe9d8;
- 
+  background-color:  #afe9d8;
+
 }
 
 #dropDownList a {
   text-align: center;
   color:   #24755d;
+  border-bottom: 1px solid  #29896e;
  }
+
 
 #dropDownList a:hover {
   background-color:  #88ddc5;
@@ -53,6 +55,7 @@ body{
 
 
 #collapsable-nav {
-  margin-top: 16px;
+  margin-top: 17px;
   
 }
+
