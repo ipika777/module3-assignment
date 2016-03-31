@@ -71,3 +71,8 @@ section{
   background-color:  #88ddc5;
   text-align: justify;
 }
+
+#chicken {
+  padding:2px;  
+  font-weight: bold;
+}
