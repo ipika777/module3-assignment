@@ -80,3 +80,15 @@ section{
 
 }
 
+#chicken a , #beef a, #sushi a{
+  text-align: center;
+  color: #24755d;
+  font-weight: bold;
+  text-decoration: none;
+ }
+
+
+#chicken a:hover , #beef a:hover, #sushi a:hover {
+  color:   #fff;
+
+}
