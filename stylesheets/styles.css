@@ -76,8 +76,7 @@ section{
 }
 
 #chicken, #sushi, #beef{
-  padding:2px;  
-  font-weight: bold;
+  padding:8px;  
 
 }
 
