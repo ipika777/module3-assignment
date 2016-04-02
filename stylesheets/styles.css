@@ -9,9 +9,12 @@ body{
   background-color: #29896e;
   border-radius: 0;
   border: 0;
+ }
+
+.navbar-brand { /* Restaurant name */
+  background-color: #29896e;
   height: 80px;
 }
-
 
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Pacifico', cursive;
@@ -46,22 +49,22 @@ body{
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #fff;
-
+  
 }
+
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;
+  margin-top: -60px;
 }
 
 
 #collapsable-nav {
-  margin-top: 17px;
-margin-bottom: 20px;
+ 
 }
 
 #ourMenu{
   color: #29896e;
-  font-weigh: bold;
+  font-weight: bold;
 }
 
 section{
@@ -71,13 +74,12 @@ section{
   background-color:  #88ddc5;
   text-align: justify;
   border-radius: 20px;
-  border: solid 4px #29896e;
+  border: solid 1px #29896e;
 
 }
 
 #chicken, #sushi, #beef{
   padding:8px;  
-
 }
 
 #chicken a , #beef a, #sushi a{
@@ -87,8 +89,6 @@ section{
   text-decoration: none;
  }
 
-
 #chicken a:hover , #beef a:hover, #sushi a:hover {
   color:   #fff;
-
 }
