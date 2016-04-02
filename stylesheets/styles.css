@@ -31,32 +31,32 @@ body{
 
 #dropDownList {
   background-color:  #29896e;
+  margin-top:0px;
+  margin-bottom: 0px;
 }
 
 #dropDownList a {
   text-align: center;
-  border-bottom: 1px solid  #29896e;
+  border-bottom: 1px solid  #ebf9f5;
   font-weight: bold;
-  color:   #fff;
+  color:   #ebf9f5;
  }
 
 #dropDownList a:hover {
-  background-color:  #afe9d8;
+  background-color:  #b0e7d8;
   color:    #29896e;
+  border-bottom: 1px solid #29896e;
 }
 
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #fff;
-  
 }
 
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -60px;
 }
-
-
 
 #ourMenu{
   color: #29896e;
@@ -67,7 +67,7 @@ section{
   margin: 10px;
   padding: 10px;
   color: black;
-  background-color:  #88ddc5;
+  background-color:  #b0e7d8;
   text-align: justify;
   border-radius: 20px;
   border: solid 1px #29896e;
@@ -89,3 +89,4 @@ section{
 #chicken a:hover , #beef a:hover, #sushi a:hover {
   color:   #fff;
 }
+
